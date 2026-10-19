@@ -1,0 +1,5 @@
+.env 
+venv/ 
+postulaciones/ 
+profile/ 
+__pycache__/ 
